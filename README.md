@@ -1,4 +1,4 @@
-👋 Hi, I’m @Murodjon03  
+👋 Hi, I’m Khudoykulov  
 - 👀 I’m interested in DevOps, system administration, automation, cloud technologies, and cybersecurity  
 - 🌱 I’m currently learning Kubernetes, Ansible, Terraform, and CI/CD pipelines  
 - 💞️ I’m looking to collaborate on infrastructure automation, open-source DevOps tools, or Linux-based projects  
